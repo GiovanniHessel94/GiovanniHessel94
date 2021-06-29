@@ -5,11 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, Node.js, Typescript, Elixir.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VSCode, Postman, pgAdmin</strong>
+  🦄 Programming Languages: <strong>Python, Node.js, Typescript, Elixir.</strong>
 </p>
 
 <p align="left">
