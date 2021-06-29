@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💌 Para mais informações basta mandar uma mensagem: ⤵️
+  💌 Any questions? send me a message: ⤵️
 </p>
 
 <p align="left">
