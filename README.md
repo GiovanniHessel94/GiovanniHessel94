@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello there, my name is Giovanni Hessel and I work as a fullstack developer at INFOX innovation team. Currently working on projects using scrum, clean code, automated tests and best practices. Also deepening my knowledge in Elixir and studying english.
+  Hello there, my name is Giovanni Hessel and I work as a back-end developer at Credere. Currently working on projects using elixir, clean code, automated tests and best practices. Also deepening my knowledge in Elixir and studying english.
 </p>
 
 <p align="left">
