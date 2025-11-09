@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💼 Web/Mobile Frameworks: <strong>Django, React, Flutter</strong>
+  💼 Web/Mobile Frameworks: <strong>Django, React, Flutter, Phoenix</strong>
 </p>
 
 <p align="left">
@@ -23,7 +23,4 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/giovanni-garcia-hessel-137b1393/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanni-garcia-hessel-137b1393/" /></a>
-
-  <a href="https://api.whatsapp.com/send?phone=5515988002099" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5515988002099"/></a>
 </p>  
